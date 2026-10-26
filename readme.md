@@ -1045,6 +1045,14 @@ Skills for marketing professionals, content creators, and growth teams.
   - Reference layer covers benchmarks, GDPR/CAN-SPAM/CASL compliance, cold email, SMS and WhatsApp, and 19 industry playbooks
   - Install: `npx skills add CosmoBlk/email-marketing-bible`
 
+- [zhuyansen/backlink-guard](https://github.com/zhuyansen/backlink-guard) ![Stars](https://img.shields.io/github/stars/zhuyansen/backlink-guard?style=flat-square)
+  - Checks a link source (directory, awesome list, guest-post site) before you submit your site to it (MIT)
+  - Gives each site an action (skip, look first, free only, low value or submit) and a verdict with the evidence, against Google's link spam policies
+  - Verifies a listing once it is live (followed or not, and where the link sits) and audits your own backlink profile
+  - Also finds the pages that rank for your keywords, the sites linking to your competitors and not to you, and who AI Overviews and AI assistants cite; never submits anything
+  - One skill and an MCP server; the page checks are free, paid signals need a Glasser or AIsa API key (`vet` about $0.01 a site plus $0.16 a batch), and the skill states the cost first
+  - Install: `npx skills add zhuyansen/backlink-guard`
+
 ---
 
 ## Domain-Specific Skills
