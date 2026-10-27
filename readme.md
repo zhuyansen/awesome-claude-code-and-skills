@@ -1045,6 +1045,14 @@ Skills for marketing professionals, content creators, and growth teams.
   - Reference layer covers benchmarks, GDPR/CAN-SPAM/CASL compliance, cold email, SMS and WhatsApp, and 19 industry playbooks
   - Install: `npx skills add CosmoBlk/email-marketing-bible`
 
+- [zhuyansen/site-traffic-teardown](https://github.com/zhuyansen/site-traffic-teardown) ![Stars](https://img.shields.io/github/stars/zhuyansen/site-traffic-teardown?style=flat-square)
+  - Competitor traffic and SEO teardown skill for Claude Code, Codex and Cursor (MIT)
+  - Finds a site's competitors (Semrush organic competitors) and screens them by Similarweb visits
+  - Pulls one side-by-side table: 3-month trend, channel mix, Semrush keywords and backlinks, Ahrefs DR
+  - Reads it into each site's growth-engine type and three opportunities tied to numbers in the table
+  - Needs the AIsa CLI and a paid AIsa API key (under $1 per domain); each stage shows the quote before anything is billed
+  - Install: `npx skills add zhuyansen/site-traffic-teardown`
+
 ---
 
 ## Domain-Specific Skills
